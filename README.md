@@ -37,8 +37,8 @@ The feature selection techniques used are:
 # CODING AND OUTPUT:
 "BMI.csv"
 <img width="679" height="361" alt="image" src="https://github.com/user-attachments/assets/e12f830f-f481-4c6b-a59b-581f1e4f69ff" />
-<img width="492" height="210" alt="image" src="https://github.com/user-attachments/assets/e5c2a6df-3e52-44c2-a0ab-49a562302c51" />
 <img width="509" height="507" alt="image" src="https://github.com/user-attachments/assets/c280f151-235a-4213-9b88-5497ae3f010a" />
+<img width="509" height="507" alt="image" src="https://github.com/user-attachments/assets/1e2d4fa7-9bb7-409c-9425-946f3fd545ef" />
 <img width="723" height="142" alt="image" src="https://github.com/user-attachments/assets/1067045b-df32-420d-a6ab-70e02bf550f5" />
 <img width="715" height="300" alt="image" src="https://github.com/user-attachments/assets/aea60402-a6a7-4d57-a287-453b4e2357f8" />
 <img width="833" height="444" alt="image" src="https://github.com/user-attachments/assets/c3907acc-7b1b-45cf-8a36-076994f51282" />
